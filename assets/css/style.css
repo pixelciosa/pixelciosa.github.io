@@ -1105,6 +1105,7 @@ Resume Timeline
     padding: 0 15px;
     border-radius: 4px;
     transition: inherit;
+    font-weight: 500;
 }
 #filter li a.active,
 #filter li a:hover {
